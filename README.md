@@ -1,17 +1,21 @@
 # Table of contents:
-* [Bead Necklace](Beads.java)
-* Bead Necklace Problem
-* Farmer John, the Cows, and the Milking Bucket
-* Reading Cows
-* Cow Architecture
-* The Cow Censoring Machine
-* Palindromic Squares
-* Guernsey or Holstein
-* Find the Max Distance
-* Farmer John’s Terrible Mowing
-* Bessie the Cow is Painting the Fence
-* Double Squares
-* Farmer John’s New Interest in Highways
-* Square Transform!
-* Tic-Tac-Toe! Cow Edition!
-* Cow Maze
+* [Bead Necklace Problem](Beads.java)
+* [Farmer John, the Cows, and the Milking Bucket](Blist.java)
+* [Reading Cows](Blocks.java)
+* [Cow Architecture](Cbarn.java)
+* [The Cow Censoring Machine](Censor.java)
+* [Cowman!](Cowsignal.java)
+* [Palindromic Squares](Dualpal.java)
+* [Guernsey or Holstein](LonelyPhoto.java)
+* [Find the Max Distance](MaxDist.java)
+* [Farmer John’s Terrible Mowing](Mowing.java)
+* [Bessie the Cow is Painting the Fence](Paint.java)
+* [Double Squares](Palsquare.java)
+* [The UFO Comet](Ride.java)
+* [Dancing Cows](Shuffle.java)
+* [The Adventures of Bessie the Cowlaw and the Stolen Tractor](Speeding.java)
+* [Shrinking Square](Square.java)
+* [Farmer John’s New Interest in Highways](Traffic.java)
+* [Square Transform!](Shuffle.java)
+* [Tic-Tac-Toe! Cow Edition!](Tttt.java)
+* [Cow Maze](WalkingHome.java)
