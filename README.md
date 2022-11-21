@@ -1,5 +1,5 @@
 # Table of contents:
-* [Bead Necklace Problem](Beads.java)
+* [The Broken Necklace](Beads.java)
 * [Farmer John, the Cows, and the Milking Bucket](Blist.java)
 * [Reading Cows](Blocks.java)
 * [Cow Architecture](Cbarn.java)
